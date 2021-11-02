@@ -2,10 +2,10 @@
 
 ## Description
 The assignment requires one of the collaborator to create a new software project repository on 
-GitHub and others need to fork the same in order to contribute to it. All collaborators should create different topic branches in order to make their changes.
+GitHub and others need to fork the same in order to contribute to it. All collaborators should create different topic branches in order to make their changes. Collaborate and contribute to the development of ReadMe.md file. You must make use of Markdown language to write the same.
 
 ### Dependencies
-IDE (Atom/ Visual Studio Code/Eclipse)
+IDE (__Atom/Visual Studio Code/Eclipse__)
 
 ## Authors
 
