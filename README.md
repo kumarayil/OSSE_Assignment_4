@@ -18,3 +18,10 @@ IDE (Atom/ Visual Studio Code/Eclipse)
 **JOBY JOSE** <2020mt93754@wilp.bits-pilani.ac.in>  
 **HRIDYA.N.S** <2020mt93709@wilp.bits-pilani.ac.in>  
 **SANU V MONY** <2020mt93710@wilp.bits-pilani.ac.in>  
+
+## Version History
+* 1.0
+    * Initial Release
+
+## License
+This project is licensed under the _GPLv2_ License - see the **LICENSE.md** file for details
