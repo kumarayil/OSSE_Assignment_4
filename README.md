@@ -6,3 +6,15 @@ GitHub and others need to fork the same in order to contribute to it. All collab
 
 ### Dependencies
 IDE (Atom/ Visual Studio Code/Eclipse)
+
+## Authors
+
+**Repository Owner**  
+**Dileep Kumar M** kumarayil@gmail.com  
+
+**Contributors names and contact info**
+
+**DILEEP KUMAR M** <2020mt93744@wilp.bits-pilani.ac.in>  
+**JOBY JOSE** <2020mt93754@wilp.bits-pilani.ac.in>  
+**HRIDYA.N.S** <2020mt93709@wilp.bits-pilani.ac.in>  
+**SANU V MONY** <2020mt93710@wilp.bits-pilani.ac.in>  
